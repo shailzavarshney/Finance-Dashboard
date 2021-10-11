@@ -1,4 +1,4 @@
-# DASHBOARD
+# FINANCE DASHBOARD
 
 
 ## Steps 
